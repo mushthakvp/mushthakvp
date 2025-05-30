@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on [FauxSpot - Turf Booking](https://github.com/MushthakVP/Faux-Spot.git)
 
 - 🌱 I’m currently learning **Node js , MongoDb**
-- 👨‍💻 All of my projects are available at [PersonalWebsite](https://mushthakvp.github.io/PersonalWebsite/)
+- 👨‍💻 All of my projects are available at [PersonalWebsite](https://www.mushthak.com/)
 <p>Frameworks & Library</p> 
 <p> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> </p> 
 <p>IDE</p>
